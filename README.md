@@ -22,3 +22,6 @@ Target 2 corresponde a una calidad del aire Peligrosa
 uoc_train.csv: Este dataset contiene tanto las variables predictoras como el tipo de clasificación de calidad del aire.
 
 uoc_test_X.csv: Este dataset contiene las variables predictoras con las que se tendrá que predecir el tipo de calidad de aire.
+
+
+Mira el proyecto en <a href="https://nuwe.io/challenge/uoc-or-clasificacion-de-la-calidad-del-aire#datasets">Nuwe</a>.
